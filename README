@@ -1,0 +1,31 @@
+Final Project
+
+Jake White
+
+
+Willem A. (Vlakkies) Schreuder
+CSCI4229/5229 Fall 2014
+
+with Frame Buffer Depth Texture by Jay Kominek
+
+
+For this project I have created a simple game which allows the user to aim and shoot an ice hockey puck at targets within a net.
+
+- Aim horiztonally using the key's '1' (left) and '2' (right)
+- Aim vertically using the key '3' (up) and '4' (down)
+- Shoot the puck by pressing the 's' key
+- reset the shooting scene by pressing 'r', which enables another shot to be taken
+- press 0 to get a first hand view of the shot angle
+
+
+
+Key bindings
+  1/2        aim left/right
+  3/4        aim up/dowm
+  s/S        shoot the puck
+  +/-        Change light elevation
+  a          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
